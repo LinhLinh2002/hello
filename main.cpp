@@ -7,9 +7,7 @@ int main(){
     cin >> a;
 
     return 1;
-}
-int main(){
-    int n;
-    cout <<"Nhap so nguyen n: ";
-    cin >> n;
+
+
+    
 }
